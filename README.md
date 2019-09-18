@@ -129,8 +129,6 @@
 | Давид Френкель                     | Fullstack Developer                     |
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
-| Быков Владимир                     | Frontend developer                      |
-| Левицкая Анастасия                 | Художник                                |
 | Сёмов Руслан                       | Senior DevOps Engineer, dlg.im          |
 | Артём Попов                        | Software Engineer                       |
 | Бухвалова Юлия                     | Frontend developer, LiveJournal         |
@@ -160,3 +158,4 @@
 | Лошаков Никита                     | Tech Lead                               |
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
+| Бабушкин Эдуард                    | HR - аналитик                           |
